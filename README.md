@@ -2,9 +2,11 @@
 NAME - ANMOL SALUJA
 COLLEGE - IIT (BHU) , Varanasi
 
-Project - Amex CodeLab : Credit Card Fraud Detection
+Project - AmEx CodeLab : Credit Card Fraud Detection
 
 Max Score Achieved - 92.59291/100
+
+Final Rank Achieved - 37 out of 5000 participants
 
 WORK DONE ON JUPYTER NOTEBOOK USING PYTHON 3.8.
 
